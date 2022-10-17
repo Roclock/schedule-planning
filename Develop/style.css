@@ -74,3 +74,16 @@ textarea {
   text-align: left;
   border-radius: 20px;
 }
+/*Add id's for past present and future, set up for javascript to pass through */
+.past {
+  background-color: #979595;
+  color: white;
+}
+.future {
+  background-color: #4b954b;
+  color: white;
+}
+.present {
+  background-color: #fa5d55;
+  color: white;
+}
